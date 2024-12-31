@@ -52,6 +52,8 @@ The application is designed to simplify transcript files for easy readability an
    ./netadata <input_file>
    ```
 
+   
+
 ### Option 2: Install via Debian Package
 
 1. Build the `.deb` package:
@@ -63,10 +65,18 @@ The application is designed to simplify transcript files for easy readability an
    dpkg-deb --build mypackage
    ```
 
+ You can also download directly the .deb file here:
+
+```bash
+wget https://github.com/Car85/NetaData/blob/main/netadata.deb
+
+```
+
 2. Install the package:
    ```bash
    sudo dpkg -i mypackage.deb
    ```
+
 
 3. Run the application:
    ```bash
@@ -74,6 +84,8 @@ The application is designed to simplify transcript files for easy readability an
    ```
 
 ---
+
+### Option 3 
 
 ## Usage
 

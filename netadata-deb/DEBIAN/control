@@ -1,0 +1,8 @@
+Package: netadata
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Car85 <car85@startmail.com>
+Description: Clean youtube transcriptions.
+

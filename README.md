@@ -1,7 +1,7 @@
 # NetaData
 
 ![Go](https://img.shields.io/badge/Go-1.21-blue?style=flat-square&logo=go)
-![Debian](https://img.shields.io/badge/Debian-11-red?style=flat-square&logo=debian)
+![Debian](https://img.shields.io/badge/Debian-Stable-red?style=flat-square&logo=debian)
 ![Linux](https://img.shields.io/badge/Linux-Universal-orange?style=flat-square&logo=linux)
 ![License](https://img.shields.io/badge/License-GPL--3.0-green?style=flat-square&logo=gnu)
 

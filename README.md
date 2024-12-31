@@ -123,15 +123,6 @@ Output file (`transcript_cleaned.txt`):
 
 ---
 
-## Badges
-
-### Languages and Tools
-
-- **Go**: Application logic.
-- **Debian**: For creating and running `.deb` packages.
-- **Linux**: Universal compatibility.
-
----
 
 ## License
 

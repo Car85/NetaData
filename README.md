@@ -29,7 +29,9 @@ The application is designed to simplify transcript files for easy readability an
 ## Requirements
 
 - **Go** 1.21 or later installed (for building manually).
-
+  
+- You can also install **NetaData** in any Debian based Linux distribution.
+  
 ---
 
 ## Installation

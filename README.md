@@ -5,6 +5,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Universal-orange?style=flat-square&logo=linux)
 ![License](https://img.shields.io/badge/License-GPL--3.0-green?style=flat-square&logo=gnu)
 
+
 ## Overview
 
 **NetaData** is a command-line application written in Go that processes YouTube-style transcription files, removing:
@@ -23,6 +24,12 @@ The application is designed to simplify transcript files for easy readability an
 - **Tag Cleanup:** Strips out unwanted tags like `<c>`.
 - **Duplicate Line Filtering:** Avoids redundant consecutive lines.
 - **Text Flattening:** Produces a single continuous line of text without line breaks.
+
+---
+
+## Demo
+
+[📽️ Watch Demo Video](https://github.com/user-attachments/assets/45a3e44f-da31-44c4-802e-ffa0cc85a3a8)
 
 ---
 
